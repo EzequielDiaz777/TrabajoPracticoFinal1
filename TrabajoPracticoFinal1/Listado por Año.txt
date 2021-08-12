@@ -1,0 +1,6 @@
+Tipo de libro: Audiolibro / Nombre: Cosmos: Un Viaje Personal / Autor: Carl Sagan / Año: 1980 / Codigo: 3 / Memoria: ----------------------- / Programa: ----------------------- / Cantidad: 6 / Total: 354 /
+Tipo de libro: Libro fisico / Nombre: El Rio Sagrado / Autor: Wilbur Smith / Año: 1994 / Codigo: 6 / Memoria: ----------------------- / Programa: ----------------------- / Cantidad: ---------------------------- / Total: ---------------------------- /
+Tipo de libro: Libro fisico / Nombre: Los seis signos de la Luz / Autor: Sussan Cooper / Año: 1996 / Codigo: 2 / Memoria: ----------------------- / Programa: ----------------------- / Cantidad: ---------------------------- / Total: ---------------------------- /
+Tipo de libro: Audiolibro / Nombre: Musica relajante / Autor: Musicoterapeutas / Año: 2016 / Codigo: 4 / Memoria: ----------------------- / Programa: ----------------------- / Cantidad: 7 / Total: 77 /
+Tipo de libro: Libro digital / Nombre: Fisica / Autor: Mathemathics / Año: 2016 / Codigo: 5 / Memoria: 1024 / Programa: Adobe / Cantidad: ---------------------------- / Total: ---------------------------- /
+Tipo de libro: Libro digital / Nombre: Matematica / Autor: Mathemathics / Año: 2017 / Codigo: 1 / Memoria: 1024 / Programa: Adobe / Cantidad: ---------------------------- / Total: ---------------------------- /
